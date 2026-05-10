@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+<meta charset="UTF-8">
+<title>لوحة التحكم</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+    <h2>لوحة التحكم 📊</h2>
+</header>
+
+<div class="container">
+
+    <div class="card">
+        <h3>المهام الحالية</h3>
+        <p>لا توجد مهام حالياً</p>
+    </div>
+
+    <div class="card">
+        <h3>المهام المكتملة</h3>
+        <p>0</p>
+    </div>
+
+    <a href="tasks.html"><button>إضافة مهمة</button></a>
+    <a href="calendar.html"><button>التقويم</button></a>
+
+</div>
+
+</body>
+</html>
